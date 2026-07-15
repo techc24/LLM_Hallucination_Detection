@@ -1,0 +1,27 @@
+[
+  {
+    "id": "hypertension_definition",
+    "title": "Hypertension",
+    "description": "Hypertension, or high blood pressure, is a chronic medical condition in which the blood pressure in the arteries is persistently elevated."
+  },
+  {
+    "id": "hypertension_risk",
+    "title": "Hypertension Risk",
+    "description": "Untreated hypertension increases the risk of heart disease, stroke, and kidney damage."
+  },
+  {
+    "id": "antibiotics_viruses",
+    "title": "Antibiotics and Viruses",
+    "description": "Antibiotics are not effective against viral infections such as the common cold or influenza."
+  },
+  {
+    "id": "vaccine_effectiveness",
+    "title": "Vaccines",
+    "description": "Vaccines greatly reduce the risk of many infectious diseases but do not guarantee complete protection for every individual."
+  },
+  {
+    "id": "lifestyle_heart",
+    "title": "Lifestyle and Heart Health",
+    "description": "Regular exercise, a balanced diet, and avoiding smoking can reduce the risk of heart disease but cannot completely eliminate it."
+  }
+]

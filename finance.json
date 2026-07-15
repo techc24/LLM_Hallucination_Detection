@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bond_definition",
+    "title": "Bond",
+    "description": "A bond is a fixed-income instrument that represents a loan made by an investor to a borrower, typically a corporation or government."
+  },
+  {
+    "id": "stock_definition",
+    "title": "Stock",
+    "description": "A stock represents ownership in a corporation and a claim on part of the corporation's assets and earnings."
+  },
+  {
+    "id": "fdic_insurance",
+    "title": "FDIC Insurance",
+    "description": "In the United States, FDIC insurance generally covers up to 250000 dollars per depositor, per insured bank, for each account ownership category."
+  },
+  {
+    "id": "high_risk_instrument",
+    "title": "Leveraged ETF Risk",
+    "description": "Leveraged exchange-traded funds are considered high-risk instruments and are not guaranteed to preserve capital."
+  },
+  {
+    "id": "diversification_rule",
+    "title": "Diversification",
+    "description": "Diversifying across different asset classes and sectors can reduce portfolio risk but does not eliminate the possibility of loss."
+  }
+]

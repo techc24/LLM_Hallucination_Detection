@@ -1,0 +1,22 @@
+[
+  {
+    "id": "presumption_of_innocence",
+    "title": "Presumption of Innocence",
+    "description": "In many legal systems, a defendant is presumed innocent until proven guilty beyond a reasonable doubt."
+  },
+  {
+    "id": "contract_elements",
+    "title": "Contract Elements",
+    "description": "A valid contract typically requires an offer, acceptance, consideration, and the intention to create legal relations."
+  },
+  {
+    "id": "ndas",
+    "title": "Non-Disclosure Agreement",
+    "description": "A non-disclosure agreement is a contract that creates a confidential relationship between parties and restricts the sharing of specified information."
+  },
+  {
+    "id": "legal_advice",
+    "title": "No Guaranteed Outcome",
+    "description": "Lawyers cannot guarantee a specific outcome in litigation because court decisions depend on many factors beyond their control."
+  }
+]

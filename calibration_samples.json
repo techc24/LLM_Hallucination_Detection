@@ -1,0 +1,8 @@
+[
+  {"raw_score": 0.10, "target_score": 0.08},
+  {"raw_score": 0.25, "target_score": 0.20},
+  {"raw_score": 0.40, "target_score": 0.34},
+  {"raw_score": 0.55, "target_score": 0.47},
+  {"raw_score": 0.70, "target_score": 0.62},
+  {"raw_score": 0.85, "target_score": 0.78}
+]
